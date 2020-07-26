@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoBTle.Desktop", "LegoBTle\LegoBTle.Desktop.csproj", "{6420CC97-F4B5-4015-BDAA-4CB5705461E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoBTle.Bluetooth", "BluetoothAbstraction\LegoBTle.Bluetooth.csproj", "{80D6FC60-9E3F-4963-8730-36E707EED065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoBTle.Console", "LegoBTle.Console\LegoBTle.Console.csproj", "{A8438CEE-B654-4F36-BBCD-537AA0F3950D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6420CC97-F4B5-4015-BDAA-4CB5705461E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6420CC97-F4B5-4015-BDAA-4CB5705461E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6420CC97-F4B5-4015-BDAA-4CB5705461E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6420CC97-F4B5-4015-BDAA-4CB5705461E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D6FC60-9E3F-4963-8730-36E707EED065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D6FC60-9E3F-4963-8730-36E707EED065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D6FC60-9E3F-4963-8730-36E707EED065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D6FC60-9E3F-4963-8730-36E707EED065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8438CEE-B654-4F36-BBCD-537AA0F3950D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8438CEE-B654-4F36-BBCD-537AA0F3950D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8438CEE-B654-4F36-BBCD-537AA0F3950D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8438CEE-B654-4F36-BBCD-537AA0F3950D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FC1A1B-9DD7-42F8-A81A-0109CB2170FD}
+	EndGlobalSection
+EndGlobal
