@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoBTle.Desktop", "LegoBTl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoBTle.Bluetooth", "BluetoothAbstraction\LegoBTle.Bluetooth.csproj", "{80D6FC60-9E3F-4963-8730-36E707EED065}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoBTle.Console", "LegoBTle.Console\LegoBTle.Console.csproj", "{A8438CEE-B654-4F36-BBCD-537AA0F3950D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoBTle.Console", "LegoBTle.Console\LegoBTle.Console.csproj", "{A8438CEE-B654-4F36-BBCD-537AA0F3950D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4362C464-FC96-4A01-8FDF-2245B4185C15}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
